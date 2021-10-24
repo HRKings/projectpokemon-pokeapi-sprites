@@ -7,6 +7,7 @@
   "scripts": {
     "getsprites": "tsc; node dist/projectpokemon/index.js",
     "pokeapi": "tsc; node dist/pokeapi/index.js",
+    "reverse-map": "tsc; node dist/projectpokemon/reverseMap.js",
     "download": "tsc; node dist/pokeapi/download.js",
     "lint": "eslint --fix **/*.ts"
   },

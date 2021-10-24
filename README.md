@@ -20,6 +20,31 @@ This command downloads the list of pokemon, pokemon forms and species from PokeA
 
 After running those two you will have a collection of JSON files containing the PokeAPI IDs mapped to the correct sprites (front, back, shiny and female)
 
-### Downloading
+## Downloading
 
 A download images script is included via `pnpm run download`, if needed
+
+### Folder structure
+
+The folder structure generated is the same as the PokeAPI:
+
+```
+data/images           - The front facing sprites
+├── shiny             - The front facing shiny sprites
+│   └── female        - The front facing shiny female sprites
+├── female            - The front facing female sprites
+└─── back             - The back facing sprites
+     ├── female       - The back facing female sprites
+     └── shiny        - The back facing shiny sprites
+         └── female   - The back facing shiny female sprites
+```
+
+### Reverse Map
+
+For some reason some images don't download, so you can download all images into a folder using some other way and then move and rename the images into the appropriate folder structure. A mapping of the file names coming from the Project Pokemon Sprite Index to the appropriate PokeAPI IDs is provided to aid into this scenario.
+
+The command for making the reverse map is:
+
+```bash
+pnpm run reverse-map
+```
