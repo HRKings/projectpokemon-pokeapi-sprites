@@ -22,7 +22,11 @@ After running those two you will have a collection of JSON files containing the 
 
 ## Downloading
 
-A download images script is included via `pnpm run download`, if needed
+A download images script is included if needed
+
+```bash
+pnpm run download
+```
 
 ### Folder structure
 
@@ -41,10 +45,18 @@ data/images           - The front facing sprites
 
 ### Reverse Map
 
-For some reason some images don't download, so you can download all images into a folder using some other way and then move and rename the images into the appropriate folder structure. A mapping of the file names coming from the Project Pokemon Sprite Index to the appropriate PokeAPI IDs is provided to aid into this scenario.
+If you want to download using another method a mapping of the file names coming from the Project Pokemon Sprite Index to the appropriate PokeAPI IDs is provided to aid into this scenario.
 
 The command for making the reverse map is:
 
 ```bash
 pnpm run reverse-map
+```
+
+### List of needed links
+
+You can generate a list of the missing files (note that some files are 404 on Project Pokemon Sprite Index, despite being in the page)
+
+```bash
+pnpm run link-list
 ```
