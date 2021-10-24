@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"module": "esnext",
+		"target": "esnext",
+		"strict": true,
+		"importHelpers": true,
+		"moduleResolution": "Node",
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"lib": [
+			"esnext",
+			"dom"
+		],
+		"outDir": "dist",
+	},
+	"include": [
+		"src/**/*.ts",
+		"generator/**/*.ts",
+		"pokeapi/**/*.ts",
+		"test/**/*.ts"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

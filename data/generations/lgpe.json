@@ -1,0 +1,22 @@
+{
+  "meltan": {
+    "front": {
+      "default": "https://projectpokemon.org/images/sprites-models/lgswitch-sprite/meltan.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/lgswitch-shiny/meltan.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/lgswitch-back/meltan.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/lgswitch-back/meltan-shiny.gif"
+    }
+  },
+  "melmetal": {
+    "front": {
+      "default": "https://projectpokemon.org/images/sprites-models/lgswitch-sprite/melmetal.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/lgswitch-shiny/melmetal.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/lgswitch-back/melmetal.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/lgswitch-back/melmetal-shiny.gif"
+    }
+  }
+}
