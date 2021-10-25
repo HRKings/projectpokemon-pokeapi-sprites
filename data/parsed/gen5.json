@@ -1559,7 +1559,27 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect.gif"
     }
   },
-  "10016": {
+  "female-521": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unfezant-f.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unfezant-f.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unfezant-f.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unfezant-f.gif"
+    }
+  },
+  "531-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/audino-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/audino-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/audino-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/audino-mega.gif"
+    }
+  },
+  "550-blue-striped": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/basculin-blue.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/basculin-blue.gif"
@@ -1569,7 +1589,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/basculin-blue.gif"
     }
   },
-  "10017": {
+  "555-zen": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/darmanitan-zen.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/darmanitan-zen.gif"
@@ -1579,77 +1599,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/darmanitan-zen.gif"
     }
   },
-  "10018": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/meloetta-pirouette.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/meloetta-pirouette.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/meloetta-pirouette.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/meloetta-pirouette.gif"
-    }
-  },
-  "10019": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/tornadus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/tornadus-therian.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/tornadus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/tornadus-therian.gif"
-    }
-  },
-  "10020": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/thundurus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/thundurus-therian.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/thundurus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/thundurus-therian.gif"
-    }
-  },
-  "10021": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/landorus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/landorus-therian.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/landorus-therian.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/landorus-therian.gif"
-    }
-  },
-  "10022": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/kyurem-black.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/kyurem-black.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/kyurem-black.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/kyurem-black.gif"
-    }
-  },
-  "10023": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/kyurem-white.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/kyurem-white.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/kyurem-white.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/kyurem-white.gif"
-    }
-  },
-  "10024": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/keldeo-resolute.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/keldeo-resolute.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/keldeo-resolute.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/keldeo-resolute.gif"
-    }
-  },
-  "10068": {
+  "585-summer": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/deerling-summer.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/deerling-summer.gif"
@@ -1659,7 +1609,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/deerling-summer.gif"
     }
   },
-  "10069": {
+  "585-autumn": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/deerling-autumn.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/deerling-autumn.gif"
@@ -1669,7 +1619,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/deerling-autumn.gif"
     }
   },
-  "10070": {
+  "585-winter": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/deerling-winter.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/deerling-winter.gif"
@@ -1679,7 +1629,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/deerling-winter.gif"
     }
   },
-  "10071": {
+  "586-summer": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/sawsbuck-summer.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/sawsbuck-summer.gif"
@@ -1689,7 +1639,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/sawsbuck-summer.gif"
     }
   },
-  "10072": {
+  "586-autumn": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/sawsbuck-autumn.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/sawsbuck-autumn.gif"
@@ -1699,7 +1649,7 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/sawsbuck-autumn.gif"
     }
   },
-  "10073": {
+  "586-winter": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/sawsbuck-winter.gif",
       "shiny": "https://projectpokemon.org/images/shiny-sprite/sawsbuck-winter.gif"
@@ -1707,56 +1657,6 @@
     "back": {
       "default": "https://projectpokemon.org/images/sprites-models/normal-back/sawsbuck-winter.gif",
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/sawsbuck-winter.gif"
-    }
-  },
-  "10075": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/genesect-water.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-water.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-water.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-water.gif"
-    }
-  },
-  "10076": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/genesect-electric.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-electric.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-electric.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-electric.gif"
-    }
-  },
-  "10077": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/genesect-fire.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-fire.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-fire.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-fire.gif"
-    }
-  },
-  "10078": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/genesect-ice.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-ice.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-ice.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-ice.gif"
-    }
-  },
-  "female-521": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unfezant-f.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unfezant-f.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unfezant-f.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unfezant-f.gif"
     }
   },
   "female-592": {
@@ -1777,6 +1677,116 @@
     "back": {
       "default": "https://projectpokemon.org/images/sprites-models/normal-back/jellicent-f.gif",
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/jellicent-f.gif"
+    }
+  },
+  "641-therian": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/tornadus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/tornadus-therian.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/tornadus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/tornadus-therian.gif"
+    }
+  },
+  "642-therian": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/thundurus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/thundurus-therian.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/thundurus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/thundurus-therian.gif"
+    }
+  },
+  "645-therian": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/landorus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/landorus-therian.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/landorus-therian.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/landorus-therian.gif"
+    }
+  },
+  "646-white": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/kyurem-white.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/kyurem-white.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/kyurem-white.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/kyurem-white.gif"
+    }
+  },
+  "646-black": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/kyurem-black.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/kyurem-black.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/kyurem-black.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/kyurem-black.gif"
+    }
+  },
+  "647-resolute": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/keldeo-resolute.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/keldeo-resolute.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/keldeo-resolute.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/keldeo-resolute.gif"
+    }
+  },
+  "648-pirouette": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/meloetta-pirouette.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/meloetta-pirouette.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/meloetta-pirouette.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/meloetta-pirouette.gif"
+    }
+  },
+  "649-douse": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/genesect-water.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-water.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-water.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-water.gif"
+    }
+  },
+  "649-shock": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/genesect-electric.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-electric.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-electric.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-electric.gif"
+    }
+  },
+  "649-burn": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/genesect-fire.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-fire.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-fire.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-fire.gif"
+    }
+  },
+  "649-chill": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/genesect-ice.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/genesect-ice.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/genesect-ice.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/genesect-ice.gif"
     }
   }
 }

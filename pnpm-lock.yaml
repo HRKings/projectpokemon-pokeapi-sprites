@@ -6,11 +6,10 @@ specifiers:
   '@typescript-eslint/parser': ^5.1.0
   axios: ^0.23.0
   cheerio: ^1.0.0-rc.10
-  directory-tree: ^3.0.0
   eslint: ^8.0.1
   eslint-config-airbnb-base: ^14.2.1
   eslint-plugin-import: ^2.25.2
-  pokedex-promise-v2: github:HRKings/pokedex-promise-v2
+  pokedex-promise-v2: github:HRKings/pokedex-promise-v2#typescript-schema
   typescript: ^4.4.4
 
 devDependencies:
@@ -19,11 +18,10 @@ devDependencies:
   '@typescript-eslint/parser': 5.1.0_eslint@8.1.0+typescript@4.4.4
   axios: 0.23.0
   cheerio: 1.0.0-rc.10
-  directory-tree: 3.0.0
   eslint: 8.1.0
   eslint-config-airbnb-base: 14.2.1_f3fc3a8f1727ab01eb417b5ed5016c22
   eslint-plugin-import: 2.25.2_eslint@8.1.0
-  pokedex-promise-v2: github.com/HRKings/pokedex-promise-v2/a32dcb581b5d30782b0284a934f45b9d754eccf0_typescript@4.4.4
+  pokedex-promise-v2: github.com/HRKings/pokedex-promise-v2/54b3a10f9e6dc44700e0fa9653caf1f4c038f826_typescript@4.4.4
   typescript: 4.4.4
 
 packages:
@@ -443,11 +441,6 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       path-type: 4.0.0
-    dev: true
-
-  /directory-tree/3.0.0:
-    resolution: {integrity: sha512-rPOvylpnKTuGp5wwEKwnAK506lHg9e0Db+q0J8br0IwMATfOE/2Ksqjgf5Tb9mfIWA8RzVJyta0ScXPgarD6BA==}
-    engines: {node: '>=10.0'}
     dev: true
 
   /doctrine/2.1.0:
@@ -1522,14 +1515,14 @@ packages:
     resolution: {integrity: sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==}
     dev: true
 
-  github.com/HRKings/pokedex-promise-v2/a32dcb581b5d30782b0284a934f45b9d754eccf0_typescript@4.4.4:
-    resolution: {tarball: https://codeload.github.com/HRKings/pokedex-promise-v2/tar.gz/a32dcb581b5d30782b0284a934f45b9d754eccf0}
-    id: github.com/HRKings/pokedex-promise-v2/a32dcb581b5d30782b0284a934f45b9d754eccf0
+  github.com/HRKings/pokedex-promise-v2/54b3a10f9e6dc44700e0fa9653caf1f4c038f826_typescript@4.4.4:
+    resolution: {tarball: https://codeload.github.com/HRKings/pokedex-promise-v2/tar.gz/54b3a10f9e6dc44700e0fa9653caf1f4c038f826}
+    id: github.com/HRKings/pokedex-promise-v2/54b3a10f9e6dc44700e0fa9653caf1f4c038f826
     name: pokedex-promise-v2
     version: 4.0.0
     engines: {node: '>=10'}
     peerDependencies:
-      typescript: '>=2.0.0'
+      typescript: ^4.4.4
     dependencies:
       axios: 0.23.0
       memory-cache: 0.2.0

@@ -33,7 +33,7 @@
     "eslint": "^8.0.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.25.2",
-    "pokedex-promise-v2": "github:HRKings/pokedex-promise-v2",
+    "pokedex-promise-v2": "github:HRKings/pokedex-promise-v2#typescript-schema",
     "typescript": "^4.4.4"
   }
 }

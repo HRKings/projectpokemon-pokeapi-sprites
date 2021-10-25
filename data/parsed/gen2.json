@@ -999,336 +999,6 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/celebi.gif"
     }
   },
-  "10001": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-bravo.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-bravo.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-bravo.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-bravo.gif"
-    }
-  },
-  "10002": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-charlie.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-charlie.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-charlie.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-charlie.gif"
-    }
-  },
-  "10003": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-delta.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-delta.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-delta.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-delta.gif"
-    }
-  },
-  "10004": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-echo.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-echo.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-echo.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-echo.gif"
-    }
-  },
-  "10005": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-foxtrot.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-foxtrot.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-foxtrot.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-foxtrot.gif"
-    }
-  },
-  "10006": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-golf.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-golf.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-golf.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-golf.gif"
-    }
-  },
-  "10007": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-hotel.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-hotel.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-hotel.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-hotel.gif"
-    }
-  },
-  "10008": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-india.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-india.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-india.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-india.gif"
-    }
-  },
-  "10009": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-juliet.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-juliet.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-juliet.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-juliet.gif"
-    }
-  },
-  "10010": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-kilo.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-kilo.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-kilo.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-kilo.gif"
-    }
-  },
-  "10011": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-lima.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-lima.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-lima.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-lima.gif"
-    }
-  },
-  "10012": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-mike.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-mike.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-mike.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-mike.gif"
-    }
-  },
-  "10013": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-november.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-november.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-november.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-november.gif"
-    }
-  },
-  "10014": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-oscar.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-oscar.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-oscar.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-oscar.gif"
-    }
-  },
-  "10015": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-papa.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-papa.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-papa.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-papa.gif"
-    }
-  },
-  "10016": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-quebec.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-quebec.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-quebec.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-quebec.gif"
-    }
-  },
-  "10017": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-romeo.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-romeo.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-romeo.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-romeo.gif"
-    }
-  },
-  "10018": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-sierra.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-sierra.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-sierra.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-sierra.gif"
-    }
-  },
-  "10019": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-tango.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-tango.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-tango.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-tango.gif"
-    }
-  },
-  "10020": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-uniform.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-uniform.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-uniform.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-uniform.gif"
-    }
-  },
-  "10021": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-victor.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-victor.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-victor.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-victor.gif"
-    }
-  },
-  "10022": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-whiskey.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-whiskey.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-whiskey.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-whiskey.gif"
-    }
-  },
-  "10023": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-xray.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-xray.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-xray.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-xray.gif"
-    }
-  },
-  "10024": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-yankee.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-yankee.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-yankee.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-yankee.gif"
-    }
-  },
-  "10025": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-zulu.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-zulu.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-zulu.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-zulu.gif"
-    }
-  },
-  "10026": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-exclamation.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-exclamation.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-exclamation.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-exclamation.gif"
-    }
-  },
-  "10027": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/unown-interrogation.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-interrogation.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-interrogation.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-interrogation.gif"
-    }
-  },
-  "10045": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/ampharos-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/ampharos-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/ampharos-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/ampharos-mega.gif"
-    }
-  },
-  "10046": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/scizor-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/scizor-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/scizor-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/scizor-mega.gif"
-    }
-  },
-  "10047": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/heracross-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/heracross-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/heracross-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/heracross-mega.gif"
-    }
-  },
-  "10048": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/houndoom-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/houndoom-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/houndoom-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/houndoom-mega.gif"
-    }
-  },
-  "10049": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/tyranitar-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/tyranitar-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/tyranitar-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/tyranitar-mega.gif"
-    }
-  },
-  "10072": {
-    "front": {
-      "default": "https://projectpokemon.org/images/normal-sprite/steelix-mega.gif",
-      "shiny": "https://projectpokemon.org/images/shiny-sprite/steelix-mega.gif"
-    },
-    "back": {
-      "default": "https://projectpokemon.org/images/sprites-models/normal-back/steelix-mega.gif",
-      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/steelix-mega.gif"
-    }
-  },
   "female-154": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/meganium-f.gif",
@@ -1367,6 +1037,16 @@
     "back": {
       "default": "https://projectpokemon.org/images/sprites-models/normal-back/xatu-f.gif",
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/xatu-f.gif"
+    }
+  },
+  "181-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/ampharos-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/ampharos-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/ampharos-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/ampharos-mega.gif"
     }
   },
   "female-185": {
@@ -1429,6 +1109,276 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/murkrow-f.gif"
     }
   },
+  "201-b": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-bravo.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-bravo.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-bravo.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-bravo.gif"
+    }
+  },
+  "201-c": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-charlie.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-charlie.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-charlie.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-charlie.gif"
+    }
+  },
+  "201-d": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-delta.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-delta.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-delta.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-delta.gif"
+    }
+  },
+  "201-e": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-echo.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-echo.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-echo.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-echo.gif"
+    }
+  },
+  "201-f": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-foxtrot.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-foxtrot.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-foxtrot.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-foxtrot.gif"
+    }
+  },
+  "201-g": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-golf.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-golf.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-golf.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-golf.gif"
+    }
+  },
+  "201-h": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-hotel.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-hotel.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-hotel.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-hotel.gif"
+    }
+  },
+  "201-i": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-india.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-india.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-india.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-india.gif"
+    }
+  },
+  "201-j": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-juliet.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-juliet.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-juliet.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-juliet.gif"
+    }
+  },
+  "201-k": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-kilo.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-kilo.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-kilo.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-kilo.gif"
+    }
+  },
+  "201-l": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-lima.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-lima.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-lima.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-lima.gif"
+    }
+  },
+  "201-m": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-mike.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-mike.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-mike.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-mike.gif"
+    }
+  },
+  "201-n": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-november.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-november.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-november.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-november.gif"
+    }
+  },
+  "201-o": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-oscar.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-oscar.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-oscar.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-oscar.gif"
+    }
+  },
+  "201-p": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-papa.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-papa.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-papa.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-papa.gif"
+    }
+  },
+  "201-q": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-quebec.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-quebec.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-quebec.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-quebec.gif"
+    }
+  },
+  "201-r": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-romeo.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-romeo.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-romeo.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-romeo.gif"
+    }
+  },
+  "201-s": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-sierra.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-sierra.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-sierra.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-sierra.gif"
+    }
+  },
+  "201-t": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-tango.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-tango.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-tango.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-tango.gif"
+    }
+  },
+  "201-u": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-uniform.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-uniform.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-uniform.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-uniform.gif"
+    }
+  },
+  "201-v": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-victor.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-victor.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-victor.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-victor.gif"
+    }
+  },
+  "201-w": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-whiskey.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-whiskey.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-whiskey.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-whiskey.gif"
+    }
+  },
+  "201-x": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-xray.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-xray.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-xray.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-xray.gif"
+    }
+  },
+  "201-y": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-yankee.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-yankee.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-yankee.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-yankee.gif"
+    }
+  },
+  "201-z": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-zulu.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-zulu.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-zulu.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-zulu.gif"
+    }
+  },
+  "201-question": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-interrogation.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-interrogation.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-interrogation.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-interrogation.gif"
+    }
+  },
+  "201-exclamation": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/unown-exclamation.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/unown-exclamation.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/unown-exclamation.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/unown-exclamation.gif"
+    }
+  },
   "female-202": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/wobbuffet-f.gif",
@@ -1469,6 +1419,16 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/steelix-f.gif"
     }
   },
+  "208-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/steelix-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/steelix-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/steelix-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/steelix-mega.gif"
+    }
+  },
   "female-212": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/scizor-f.gif",
@@ -1479,6 +1439,16 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/scizor-f.gif"
     }
   },
+  "212-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/scizor-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/scizor-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/scizor-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/scizor-mega.gif"
+    }
+  },
   "female-214": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/heracross-f.gif",
@@ -1487,6 +1457,16 @@
     "back": {
       "default": "https://projectpokemon.org/images/sprites-models/normal-back/heracross-f.gif",
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/heracross-f.gif"
+    }
+  },
+  "214-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/heracross-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/heracross-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/heracross-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/heracross-mega.gif"
     }
   },
   "female-215": {
@@ -1539,6 +1519,16 @@
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/houndoom-f.gif"
     }
   },
+  "229-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/houndoom-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/houndoom-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/houndoom-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/houndoom-mega.gif"
+    }
+  },
   "female-232": {
     "front": {
       "default": "https://projectpokemon.org/images/normal-sprite/donphan-f.gif",
@@ -1547,6 +1537,16 @@
     "back": {
       "default": "https://projectpokemon.org/images/sprites-models/normal-back/donphan-f.gif",
       "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/donphan-f.gif"
+    }
+  },
+  "248-mega": {
+    "front": {
+      "default": "https://projectpokemon.org/images/normal-sprite/tyranitar-mega.gif",
+      "shiny": "https://projectpokemon.org/images/shiny-sprite/tyranitar-mega.gif"
+    },
+    "back": {
+      "default": "https://projectpokemon.org/images/sprites-models/normal-back/tyranitar-mega.gif",
+      "shiny": "https://projectpokemon.org/images/sprites-models/shiny-back/tyranitar-mega.gif"
     }
   }
 }
