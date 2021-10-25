@@ -17,12 +17,7 @@ async function downloadImage(url: string, imagePath: string) {
   }
 
   try {
-    const response = await axios.request<Stream>({ url });
-
-    if (response.status !== 200) {
-      console.error(`${response.status} Download failed for URL: ${url}`);
-      return null;
-    }
+    const response = await axios.request<Stream>({ url, responseType: 'stream' });
 
     return new Promise<void>((resolve, reject) => {
       response.data
