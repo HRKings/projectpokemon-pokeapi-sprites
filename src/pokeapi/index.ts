@@ -81,8 +81,6 @@ genFiles.forEach(async (file) => {
   for (const key in data) {
     const pokeApiName = toPokeAPI(key).replaceAll('--', '-');
 
-    // console.log(`Parsing ${key} (${pokeApiName}) from ${file}`);
-
     const isSpecies = speciesList.results.find((pokemon) => pokemon.name === pokeApiName);
     const isForm = formsList.results.find((pokemon) => pokemon.name === pokeApiName);
 

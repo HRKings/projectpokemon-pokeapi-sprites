@@ -54,7 +54,6 @@ const pokeApiReplaces: any[][] = [
 
 const pokedex = new PokeAPI();
 
-const pokemonList = await pokedex.getPokemonsList({ limit: 1500, offset: 0 });
 const formsList = await pokedex.getPokemonFormsList({ limit: 1500, offset: 0 });
 const speciesList = await pokedex.getPokemonSpeciesList({ limit: 898, offset: 0 });
 
@@ -80,32 +79,31 @@ genFiles.forEach(async (file) => {
 
   for (const key in data) {
     const pokeApiName = toPokeAPI(key).replaceAll('--', '-');
-
-    let url: string = '';
-
-    console.log(`Parsing ${key} (${pokeApiName}) from ${file}`);
-
-    const isPokemon = pokemonList.results.find((pokemon) => pokemon.name === pokeApiName);
-    const isForm = formsList.results.find((pokemon) => pokemon.name === pokeApiName);
     const isSpecies = speciesList.results.find((pokemon) => pokemon.name === pokeApiName);
+    const isForm = formsList.results.find((pokemon) => pokemon.name === pokeApiName);
 
-    if (isPokemon) {
-      url = isPokemon.url.toString();
+    let fileName = '';
+
+    if (isSpecies) {
+      fileName = (await pokedex.getPokemonSpeciesByName(isSpecies.name)).id.toString();
+      console.log(`[SPC]: ${fileName} (${pokeApiName})`);
     } else if (isForm) {
-      url = isForm.url.toString();
-    } else if (isSpecies) {
-      url = isSpecies.url.toString();
+      const form = await pokedex.getPokemonFormByName(isForm.name);
+      const pokemon = await pokedex.getPokemonByName(form.pokemon.name);
+      const species = await pokedex.getPokemonSpeciesByName(pokemon.species.name);
+
+      fileName = `${species.id}${isForm.name.replace(species.name, '')}`;
+      console.log(`[FRM]: ${fileName} (${pokeApiName})`);
     } else {
       except.push(`${key}|${pokeApiName}|${file}`);
+      console.log(`Not found: ${pokeApiName}`);
       continue;
     }
 
-    const id = url.split('/').reverse()[1];
-
     if (key.endsWith('-f')) {
-      reverseMap[key] = `female-${id}`;
+      reverseMap[key] = `female-${fileName}`;
     } else {
-      reverseMap[key] = id;
+      reverseMap[key] = fileName;
     }
   }
 
@@ -115,5 +113,3 @@ genFiles.forEach(async (file) => {
     fs.writeFileSync(`${reverseMapPath}/except/${file}.json`, JSON.stringify(except, null, 2));
   }
 });
-
-process.exit(0);
