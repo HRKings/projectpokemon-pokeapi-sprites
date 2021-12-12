@@ -80,27 +80,38 @@ genFiles.forEach(async (file) => {
 
   for (const key in data) {
     const pokeApiName = toPokeAPI(key).replaceAll('--', '-');
+    const regexMatch = pokeApiName.match(/(\w*)-(.*)/);
 
-    const isSpecies = speciesList.results.find((pokemon) => pokemon.name === pokeApiName);
     const isForm = formsList.results.find((pokemon) => pokemon.name === pokeApiName);
 
     let fileName = '';
 
-    if (isSpecies) {
-      fileName = (await pokedex.getPokemonSpeciesByName(isSpecies.name)).id.toString();
-      console.log(`[SPC]: ${fileName} (${pokeApiName})`);
-    } else if (isForm) {
-      const form = await pokedex.getPokemonFormByName(isForm.name);
-      const pokemon = await pokedex.getPokemonByName(form.pokemon.name);
-      const species = await pokedex.getPokemonSpeciesByName(pokemon.species.name);
+    if (!regexMatch?.groups) {
+      const species = speciesList.results.find((pokemon) => pokemon.name === pokeApiName);
+      fileName = species?.url.split('/').reverse()[1]!;
+    } else {
+      if (pokeApiName.endsWith('gmax')) {
+        fileName = pokeApiName;
+      } else {
 
-      fileName = `${species.id}${isForm.name.replace(species.name, '')}`;
-      console.log(`[FRM]: ${fileName} (${pokeApiName})`);
+      }
     } else {
       except.push(`${key}|${pokeApiName}|${file}`);
       console.log(`Not found: ${pokeApiName}`);
       continue;
     }
+
+    // if (isSpecies) {
+    //   fileName = (await pokedex.getPokemonSpeciesByName(isSpecies.name)).id.toString();
+    //   console.log(`[SPC]: ${fileName} (${pokeApiName})`);
+    // } else if (isForm) {
+    //   const form = await pokedex.getPokemonFormByName(isForm.name);
+    //   const pokemon = await pokedex.getPokemonByName(form.pokemon.name);
+    //   const species = await pokedex.getPokemonSpeciesByName(pokemon.species.name);
+
+    //   fileName = `${species.id}${isForm.name.replace(species.name, '')}`;
+    //   console.log(`[FRM]: ${fileName} (${pokeApiName})`);
+    // }
 
     if (key.endsWith('-f')) {
       sanitized[`female-${fileName}`] = data[key];
